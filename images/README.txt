@@ -1,1 +1,0 @@
-This folder is where the bot will store the downloaded images

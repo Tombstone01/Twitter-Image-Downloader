@@ -1,0 +1,25 @@
+{
+  "name": "twitter-image-downloader",
+  "version": "1.0.0",
+  "description": "This Node.js bot downloads images from specified Twitter accounts in real-time",
+  "main": "config.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon  index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tombstone01/Twitter-Image-Downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tombstone01/Twitter-Image-Downloader/issues"
+  },
+  "homepage": "https://github.com/Tombstone01/Twitter-Image-Downloader#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3",
+    "twit": "^2.2.11"
+  }
+}
